@@ -1,0 +1,16 @@
+{
+  "name": "bsit-3d-api",
+  "version": "1.0.0",
+  "description": "Back end development for this class",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.ts"
+  },
+  "author": "BSIT-3d",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "express": "^4.21.2",
+    "typescript": "^5.7.3"
+  }
+}
